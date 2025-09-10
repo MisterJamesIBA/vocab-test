@@ -1,0 +1,29 @@
+.hide {
+    display: none;
+}
+
+/* functional styling for the program */
+
+.good {
+    background-color: lightgreen;
+}
+
+.bad {
+    background-color: red;
+}
+
+.ok {
+    background-color: yellow;
+}
+
+#answerText {
+    background-color: black;
+    width: fit-content;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#answerText:hover {
+    background-color: white;
+}

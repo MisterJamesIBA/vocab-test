@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revised</title>
+    <link rel="stylesheet" href="../css/newStyles.css">
+</head>
+
+<body>
+    <div class="startScreen">
+        <p>chose a test: </p>
+        <select id="testSelect">
+            <option value="../database/sample.json">EIKEN LEVEL 5</option>
+            <option value="../database/sample.json">EIKEN LEVEL 4</option>
+            <option value="../database/sample.json">EIKEN LEVEL 3</option>
+            <option value="../database/sample.json">EIKEN LEVEL 2</option>
+        </select>
+        <P>Time:</P>
+        <select id="timeSelect">
+            <option value="5">5 Min</option>
+            <option value="10">10 Min</option>
+            <option value="15">15 Min</option>
+            <option value="20">20 Min</option>
+        </select>
+        <p>Type:</p>
+        <select id="typeSelect">
+            <option value="LIST">Listening</option>
+            <option value="READ">Reading</option>
+        </select>
+        <br>
+        <button id="startBtn">Start</button>
+    </div>
+
+    <div class="resultScreen hide">
+
+        <h1>Finish</h1>
+        <p>Score: <span>###</span></p>
+        <button>try again</button>
+        <button>back</button>
+
+    </div>
+
+    <div class="mainScreen hide">
+
+        <p id="questNumber">##/##</p>
+
+        <div class="questionBox">
+            <button id="questBtn">
+                <img width="50px" src="../img/sound.png" alt="">
+            </button>
+            <p id="questText"></p>
+        </div>
+
+        <input autocomplete="off" type="text" id="input">
+        
+        <button id="enterBtn">Enter</button>
+        <button class="hide" id="nextBtn">Next</button>
+
+        <p>Your answer</p>
+        <p id="output">Correct / Incorrect</p>
+
+        <p>Answer</p>
+        <p id="answerText">Hover to reveal answer</p>
+
+    </div>
+
+
+    <script src="../js/revised.js"></script>
+
+</body>
+
+</html>

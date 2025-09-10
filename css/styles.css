@@ -1,0 +1,102 @@
+/* functional styling for the program */
+
+.good {
+    background-color: lightgreen;
+}
+
+.bad {
+    background-color: red;
+}
+
+.ok {
+    background-color: yellow;
+}
+
+#answerText {
+    background-color: black;
+    width: fit-content;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#answerText:hover {
+    background-color: white;
+}
+
+/* other */
+
+/* General body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* Styling for the main heading */
+h1 {
+  font-size: 2.5rem;
+  color: #4CAF50;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Buttons styling */
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Input field styling */
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 1rem;
+  margin: 10px 0;
+  text-align: center;
+}
+
+/* Specific IDs styling */
+#questnumber, #question, #output, #answertext {
+  font-weight: bold;
+  color: #555;
+}
+
+#output.correct {
+  color: #4CAF50;
+}
+
+#output.incorrect {
+  color: #f44336;
+}

@@ -1,0 +1,206 @@
+const VOCAB = [
+    {
+        JP: "私を~と呼んで",
+        EN: "Call me ~"
+    },
+    {
+        JP: "私は~出身です",
+        EN: "I'm from ~"
+    },
+    {
+        JP: "私は１２歳です",
+        EN: "I'm twelve"
+    },
+    {
+        JP: "私はよく～を飲みます",
+        EN: "I often drink ~"
+    },
+    {
+        JP: "あなたは～出身ですか",
+        EN: "Are you from ~ ?"
+    },
+    {
+        JP: "はいそうです",
+        EN: "Yes, I am"
+    },
+    {
+        JP: "いいえちがいます",
+        EN: "No, I'm not"
+    },
+    {
+        JP: "ラグビーファン",
+        EN: "a rugby fan"
+    },
+    {
+        JP: "クリケットファン",
+        EN: "A cricket fan"
+    },
+    {
+        JP: "あなたは～をしますか？",
+        EN: "Do you play ~ ?"
+    },
+    {
+        JP: "あなたは～が好きですか",
+        EN: "Do you like ~ ?"
+    },
+    {
+        JP: "はい",
+        EN: "Yes, I do"
+    },
+    {
+        JP: "いいえ",
+        EN: "No, I don't"
+    },
+    {
+        JP: "～はどうですか",
+        EN: "How about ~ ?"
+    },
+    {
+        JP: "あなたは～をしますか",
+        EN: "Do you play ~ ?"
+    },
+    {
+        JP: "私もです",
+        EN: "Me too"
+    },
+    {
+        JP: "あなたは～を見ることができますか？",
+        EN: "Can you see ~"
+    },
+    {
+        JP: "はいできます",
+        EN: "Yes, I can"
+    },
+    {
+        JP: "いいえできません",
+        EN: "No, I can't"
+    },
+    {
+        JP: "ありがとう",
+        EN: "Thank you"
+    },
+    {
+        JP: "少しだけ",
+        EN: "just a little"
+    },
+    {
+        JP: "毎日",
+        EN: "every day"
+    },
+    {
+        JP: "これは～です",
+        EN: "This is ~"
+    },
+    {
+        JP: "1年B組",
+        EN: "in class 1B"
+    },
+    {
+        JP: "アメリカ出身",
+        EN: "from america"
+    },
+    {
+        JP: "私たちの新しい英語の先生",
+        EN: "Our new english teacher"
+    },
+    {
+        JP: "はじめまして",
+        EN: "Nice to meet you"
+    },
+    {
+        JP: "こちらこそはじめまして",
+        EN: "Nice to meet you too"
+    },
+    {
+        JP: "魚市場", 
+        EN: "a fish market"
+    },
+    {
+        JP: "寿司屋",
+        EN: "sushi restaurant"
+    },
+    {
+        JP: "いつもとても混んでいます", // fill in later
+        EN: "It's always very crowded"
+    },
+    {
+        JP: "リンゴ",
+        EN: "apple"
+    },
+    {
+        JP: "市",
+        EN: "city"
+    },
+    {
+        JP: "机",
+        EN: "desk"
+    },
+    {
+        JP: "卵",
+        EN: "egg"
+    },
+    {
+        JP: "夕方。夜",
+        EN: "evening"
+    },
+    {
+        JP: "魚",
+        EN: "fish"
+    },
+    {
+        JP: "ギター",
+        EN: "guitar"
+    },
+    {
+        JP: "体育館",
+        EN: "gym"
+    },
+    {
+        JP: "ライオン",
+        EN: "lion"
+    },
+    {
+        JP: "オッケー",
+        EN: "OK"
+    },
+    {
+        JP: "ピアノ",
+        EN: "piano"
+    },
+    {
+        JP: "うさぎ",
+        EN: "rabbit"
+    },
+    {
+        JP: "傘",
+        EN: "umbrella"
+    },
+    {
+        JP: "野菜",
+        EN: "vegetable"
+    },
+    {
+        JP: "窓",
+        EN: "window"
+    },
+    {
+        JP: "箱",
+        EN: "box"
+    },
+    {
+        JP: "黄色",
+        EN: "yellow"
+    },
+    {
+        JP: "動物園",
+        EN: "zoo"
+    },
+    {
+        JP: "参加する",
+        EN: "join"
+    },
+    // {
+    //     JP: "",
+    //     EN: ""
+    // },
+]
