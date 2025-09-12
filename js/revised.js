@@ -150,7 +150,7 @@ const checkAnswer = (input, answer) => {
 start point
 */
 
-const startTest = (testType, vocab) => {
+const startTest = (testType, vocab, time) => {
     console.log(testType, vocab);
     // html elements
     const delimiters = /([,!?])/; // Regular expression to match delimiters (, ! ?)
@@ -180,6 +180,16 @@ const startTest = (testType, vocab) => {
     //shuffle the vocab words
     let shuffle = vocab.sort(() => Math.random() - 0.5);
 
+    // button on click
+    questBtn.addEventListener("click", () => {
+        console.log(select.EN, select);
+        const uttr = new SpeechSynthesisUtterance(select.EN);
+        uttr.lang = 'en-US';
+        uttr.rate = 0.7;
+        speechSynthesis.speak(uttr);
+    });
+
+
     // setup question
     const setup = () => {
         // increment and check if out of bounds
@@ -195,15 +205,6 @@ const startTest = (testType, vocab) => {
         output.innerHTML = "";
         input.value = "";
         answerText.innerHTML = select.EN;
-
-        // button on click
-        questBtn.addEventListener("click", () => {
-            console.log(select.EN, select);
-            const uttr = new SpeechSynthesisUtterance(select.EN);
-            uttr.lang = 'en-US';
-            uttr.rate = 0.7;
-            speechSynthesis.speak(uttr);
-        });
 
         // list or read
         if (testType == "LIST") {
@@ -247,6 +248,30 @@ const startTest = (testType, vocab) => {
 
     });
 
+    // start test timer 
+    let seconds = time * 60;
+
+    let timeHandle = document.querySelector("#time");
+
+    const stringTime = () => {
+        let min = Math.floor(seconds / 60);
+        let s = seconds % 60;
+        s = (s < 10) ? `0${s}` : `${s}`; 
+        timeHandle.innerHTML = `${min}:${s}`;
+    }
+
+    stringTime();
+
+    let handle = setInterval(() => {
+        stringTime();
+        seconds -= 1;
+
+        if (seconds <= 0) {
+            clearInterval(handle);
+            showResult();
+        }
+    }, 1000);
+
     setup();
 }
 
@@ -261,13 +286,15 @@ window.onload = function () {
     let startBtn = document.querySelector("#startBtn");
     startBtn.addEventListener("click", () => {
         console.log(testSelect.value);
-        console.log(timeSelect.value);
+        console.log("time: " + timeSelect.value);
         console.log(typeSelect.value);
+
+        let time = Number(timeSelect.value);
 
         fetch(testSelect.value)
             .then((res) => res.text())
             .then((text) => {
-                startTest(typeSelect.value, JSON.parse(text).data);
+                startTest(typeSelect.value, JSON.parse(text).data, time);
                 showMain();
             })
             .catch((e) => console.error(e));
