@@ -1,68 +1,385 @@
 {
     "data": [
         {
-            "JP": "",
-            "EN": ""
+            "JP": "事故",
+            "EN": "accident"
+        },
+        {
+            "JP": "活動",
+            "EN": "activity"
+        },
+        {
+            "JP": "俳優",
+            "EN": "actor"
+        },
+        {
+            "JP": "住所、（めーるの）アドレス",
+            "EN": "address"
+        },
+        {
+            "JP": "水族館",
+            "EN": "aquarium"
+        },
+        {
+            "JP": "首都",
+            "EN": "capital"
+        },
+        {
+            "JP": "世紀",
+            "EN": "centry"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "ceremony"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "chance"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "chef"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "company"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "culture"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "difference"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "environment"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "flight"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "floor"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "habit"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "health"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "hobby"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "idea"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "interview"
         },
         {
             "JP": "",
-            "EN": ""
+            "EN": "nature"
+        },
+        {
+            "JP": "",
+            "EN": "novel"
+        },
+        {
+            "JP": "",
+            "EN": "opinion"
+        },
+        {
+            "JP": "",
+            "EN": "place"
+        },
+        {
+            "JP": "",
+            "EN": "plan"
+        },
+        {
+            "JP": "",
+            "EN": "pollution"
+        },
+        {
+            "JP": "",
+            "EN": "pond"
+        },
+        {
+            "JP": "",
+            "EN": "prize"
+        },
+        {
+            "JP": "",
+            "EN": "promise"
+        },
+        {
+            "JP": "",
+            "EN": "reason"
+        },
+        {
+            "JP": "",
+            "EN": "recipe"
+        },
+        {
+            "JP": "",
+            "EN": "reporter"
+        },
+        {
+            "JP": "",
+            "EN": "road"
+        },
+        {
+            "JP": "",
+            "EN": "rule"
+        },
+        {
+            "JP": "",
+            "EN": "schedule"
+        },
+        {
+            "JP": "",
+            "EN": "secret"
+        },
+        {
+            "JP": "",
+            "EN": "space"
+        },
+        {
+            "JP": "",
+            "EN": "speech"
+        },
+        {
+            "JP": "",
+            "EN": "stamp"
+        },
+        {
+            "JP": "",
+            "EN": "street"
+        },
+        {
+            "JP": "",
+            "EN": "symbol"
+        },
+        {
+            "JP": "",
+            "EN": "tornament"
+        },
+        {
+            "JP": "",
+            "EN": "way"
+        },
+        {
+            "JP": "",
+            "EN": "winner"
+        },
+        {
+            "JP": "",
+            "EN": "attend"
+        },
+        {
+            "JP": "",
+            "EN": "believe"
+        },
+        {
+            "JP": "",
+            "EN": "boil"
+        },
+        {
+            "JP": "",
+            "EN": "borrow"
+        },
+        {
+            "JP": "",
+            "EN": "celebrate"
+        },
+        {
+            "JP": "",
+            "EN": "contact"
+        },
+        {
+            "JP": "",
+            "EN": "continue"
+        },
+        {
+            "JP": "",
+            "EN": "cost"
+        },
+        {
+            "JP": "",
+            "EN": "count"
+        },
+        {
+            "JP": "",
+            "EN": "decide"
+        },
+        {
+            "JP": "",
+            "EN": "design"
+        },
+        {
+            "JP": "",
+            "EN": "destory"
+        },
+        {
+            "JP": "",
+            "EN": "enter"
+        },
+        {
+            "JP": "",
+            "EN": "exchange"
+        },
+        {
+            "JP": "",
+            "EN": "explain"
+        },
+        {
+            "JP": "",
+            "EN": "feel"
+        },
+        {
+            "JP": "",
+            "EN": "follow"
+        },
+        {
+            "JP": "",
+            "EN": "guess"
+        },
+        {
+            "JP": "",
+            "EN": "hold"
+        },
+        {
+            "JP": "",
+            "EN": "hope"
+        },
+        {
+            "JP": "",
+            "EN": "hurt"
+        },
+        {
+            "JP": "",
+            "EN": "imagine"
+        },
+        {
+            "JP": "",
+            "EN": "invent"
+        },
+        {
+            "JP": "",
+            "EN": "kick"
+        },
+        {
+            "JP": "",
+            "EN": "lend"
+        },
+        {
+            "JP": "",
+            "EN": "marry"
+        },
+        {
+            "JP": "",
+            "EN": "mean"
+        },
+        {
+            "JP": "",
+            "EN": "miss"
+        },
+        {
+            "JP": "",
+            "EN": "move"
+        },
+        {
+            "JP": "",
+            "EN": "order"
+        },
+        {
+            "JP": "",
+            "EN": "pass"
+        },
+        {
+            "JP": "",
+            "EN": "pay"
+        },
+        {
+            "JP": "",
+            "EN": "perform"
+        },
+        {
+            "JP": "",
+            "EN": "protect"
+        },
+        {
+            "JP": "",
+            "EN": "recieve"
+        },
+        {
+            "JP": "",
+            "EN": "relax"
+        },
+        {
+            "JP": "",
+            "EN": "repeat"
+        },
+        {
+            "JP": "",
+            "EN": "return"
+        },
+        {
+            "JP": "",
+            "EN": "save"
+        },
+        {
+            "JP": "",
+            "EN": "serve"
+        },
+        {
+            "JP": "",
+            "EN": "share"
+        },
+        {
+            "JP": "",
+            "EN": "shut"
+        },
+        {
+            "JP": "",
+            "EN": "smell"
+        },
+        {
+            "JP": "",
+            "EN": "smile"
+        },
+        {
+            "JP": "",
+            "EN": "spend"
+        },
+        {
+            "JP": "",
+            "EN": "spread"
+        },
+        {
+            "JP": "",
+            "EN": "steal"
+        },
+        {
+            "JP": "",
+            "EN": "taste"
+        },
+        {
+            "JP": "",
+            "EN": "turn"
+        },
+        {
+            "JP": "",
+            "EN": "waste"
         }
     ]
 }
+

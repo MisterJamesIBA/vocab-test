@@ -1,0 +1,668 @@
+{
+    "data": [
+        {
+            "JP": "種類、親切な",
+            "EN": "kind"
+        },
+        {
+            "JP": "ドル",
+            "EN": "dollar"
+        },
+        {
+            "JP": "問題",
+            "EN": "problem"
+        },
+        {
+            "JP": "楽しみ",
+            "EN": "fun"
+        },
+        {
+            "JP": "考え、思いつき",
+            "EN": "idea"
+        },
+        {
+            "JP": "未来、将来",
+            "EN": "future"
+        },
+        {
+            "JP": "物、事",
+            "EN": "thing"
+        },
+        {
+            "JP": "お金",
+            "EN": "money"
+        },
+        {
+            "JP": "物語、話",
+            "EN": "story"
+        },
+        {
+            "JP": "会、会合",
+            "EN": "meeting"
+        },
+        {
+            "JP": "道、方向、方法",
+            "EN": "way"
+        },
+        {
+            "JP": "語、単語、言葉",
+            "EN": "word"
+        },
+        {
+            "JP": "終わり、末端",
+            "EN": "end"
+        },
+        {
+            "JP": "大きさ、寸法",
+            "EN": "size"
+        },
+        {
+            "JP": "言語、言葉",
+            "EN": "language"
+        },
+        {
+            "JP": "カード、はがき",
+            "EN": "card"
+        },
+        {
+            "JP": "注意、世話",
+            "EN": "care"
+        },
+        {
+            "JP": "夢",
+            "EN": "dream"
+        },
+        {
+            "JP": "例",
+            "EN": "example"
+        },
+        {
+            "JP": "情報",
+            "EN": "information"
+        },
+        {
+            "JP": "生命",
+            "EN": "life"
+        },
+        {
+            "JP": "部分、役割",
+            "EN": "part"
+        },
+        {
+            "JP": "計画",
+            "EN": "plan"
+        },
+        {
+            "JP": "遅い",
+            "EN": "late"
+        },
+        {
+            "JP": "最後の、この前の",
+            "EN": "last"
+        },
+        {
+            "JP": "よい、親切な",
+            "EN": "good"
+        },
+        {
+            "JP": "次の、今度の",
+            "EN": "next"
+        },
+        {
+            "JP": "お気に入りの",
+            "EN": "favorite"
+        },
+        {
+            "JP": "確信して",
+            "EN": "sure"
+        },
+        {
+            "JP": "すまないと思って",
+            "EN": "sorry"
+        },
+        {
+            "JP": "幸福な、楽しい",
+            "EN": "happy"
+        },
+        {
+            "JP": "用意ができて",
+            "EN": "ready"
+        },
+        {
+            "JP": "正しい、右の",
+            "EN": "right"
+        },
+        {
+            "JP": "偉大な、すばらしい",
+            "EN": "great"
+        },
+        {
+            "JP": "忙しい",
+            "EN": "busy"
+        },
+        {
+            "JP": "すばらしい、晴れた",
+            "EN": "fine"
+        },
+        {
+            "JP": "空腹の",
+            "EN": "hungry"
+        },
+        {
+            "JP": "早い",
+            "EN": "early"
+        },
+        {
+            "JP": "自由な、ひまな",
+            "EN": "free"
+        },
+        {
+            "JP": "開いた",
+            "EN": "open"
+        },
+        {
+            "JP": "歓迎される",
+            "EN": "welcome"
+        },
+        {
+            "JP": "親愛なる",
+            "EN": "dear"
+        },
+        {
+            "JP": "特別な",
+            "EN": "special"
+        },
+        {
+            "JP": "疲れた",
+            "EN": "tired"
+        },
+        {
+            "JP": "難しい",
+            "EN": "difficult"
+        },
+        {
+            "JP": "ただ一つの",
+            "EN": "only"
+        },
+        {
+            "JP": "病気の",
+            "EN": "sick"
+        },
+        {
+            "JP": "異なる",
+            "EN": "different"
+        },
+        {
+            "JP": "有名な",
+            "EN": "famous"
+        },
+        {
+            "JP": "美しい",
+            "EN": "beautiful"
+        },
+        {
+            "JP": "近い",
+            "EN": "close"
+        },
+        {
+            "JP": "くもった",
+            "EN": "cloudy"
+        },
+        {
+            "JP": "かわいい",
+            "EN": "cute"
+        },
+        {
+            "JP": "小さい",
+            "EN": "little"
+        },
+        {
+            "JP": "小さい",
+            "EN": "small"
+        },
+        {
+            "JP": "面白い",
+            "EN": "interesting"
+        },
+        {
+            "JP": "雨の",
+            "EN": "rainy"
+        },
+        {
+            "JP": "悲しい",
+            "EN": "sad"
+        },
+        {
+            "JP": "短い",
+            "EN": "short"
+        },
+        {
+            "JP": "悪い",
+            "EN": "bad"
+        },
+        {
+            "JP": "難しい、かたい",
+            "EN": "hard"
+        },
+        {
+            "JP": "年下の",
+            "EN": "junior"
+        },
+        {
+            "JP": "暖かい",
+            "EN": "warm"
+        },
+        {
+            "JP": "人気のある",
+            "EN": "popular"
+        },
+        {
+            "JP": "速い",
+            "EN": "fast"
+        },
+        {
+            "JP": "大きい",
+            "EN": "large"
+        },
+        {
+            "JP": "すばらしい",
+            "EN": "wonderful"
+        },
+        {
+            "JP": "他の",
+            "EN": "other"
+        },
+        {
+            "JP": "雪の",
+            "EN": "snowy"
+        },
+        {
+            "JP": "役に立つ",
+            "EN": "useful"
+        },
+        {
+            "JP": "とてもおいしい",
+            "EN": "delicious"
+        },
+        {
+            "JP": "わくわくさせる",
+            "EN": "exciting"
+        },
+        {
+            "JP": "自分自身の",
+            "EN": "own"
+        },
+        {
+            "JP": "静かな",
+            "EN": "quiet"
+        },
+        {
+            "JP": "眠い",
+            "EN": "sleepy"
+        },
+        {
+            "JP": "それぞれの",
+            "EN": "each"
+        },
+        {
+            "JP": "興奮した",
+            "EN": "excited"
+        },
+        {
+            "JP": "両方の",
+            "EN": "both"
+        },
+        {
+            "JP": "暗い",
+            "EN": "dark"
+        },
+        {
+            "JP": "遠い",
+            "EN": "far"
+        },
+        {
+            "JP": "興味を持った",
+            "EN": "interested"
+        },
+        {
+            "JP": "奇妙な",
+            "EN": "strange"
+        },
+        {
+            "JP": "そのような",
+            "EN": "such"
+        },
+        {
+            "JP": "絵、写真",
+            "EN": "picture"
+        },
+        {
+            "JP": "コンピューター",
+            "EN": "computer"
+        },
+        {
+            "JP": "ピアノ",
+            "EN": "piano"
+        },
+        {
+            "JP": "台所",
+            "EN": "kitchen"
+        },
+        {
+            "JP": "新聞",
+            "EN": "newspaper"
+        },
+        {
+            "JP": "手紙",
+            "EN": "letter"
+        },
+        {
+            "JP": "Eメール",
+            "EN": "e-mail"
+        },
+        {
+            "JP": "テーブル",
+            "EN": "table"
+        },
+        {
+            "JP": "電話",
+            "EN": "phone"
+        },
+        {
+            "JP": "ブラシ",
+            "EN": "brush"
+        },
+        {
+            "JP": "ドア",
+            "EN": "door"
+        },
+        {
+            "JP": "かぎ",
+            "EN": "key"
+        },
+        {
+            "JP": "ビデオ",
+            "EN": "video"
+        },
+        {
+            "JP": "入浴",
+            "EN": "bath"
+        },
+        {
+            "JP": "窓",
+            "EN": "window"
+        },
+        {
+            "JP": "漫画本",
+            "EN": "comic"
+        },
+        {
+            "JP": "おもちゃ",
+            "EN": "toy"
+        },
+        {
+            "JP": "たくさん",
+            "EN": "a lot"
+        },
+        {
+            "JP": "たくさんの",
+            "EN": "a lot of"
+        },
+        {
+            "JP": "〜の上に",
+            "EN": "above"
+        },
+        {
+            "JP": "欠席",
+            "EN": "absent"
+        },
+        {
+            "JP": "大人",
+            "EN": "adult"
+        },
+        {
+            "JP": "いつも",
+            "EN": "always"
+        },
+        {
+            "JP": "こたえ",
+            "EN": "answer"
+        },
+        {
+            "JP": "到着する",
+            "EN": "arrive"
+        },
+        {
+            "JP": "〜になる",
+            "EN": "become"
+        },
+        {
+            "JP": "〜の前に",
+            "EN": "before"
+        },
+        {
+            "JP": "〜の後ろに",
+            "EN": "behind"
+        },
+        {
+            "JP": "より良い",
+            "EN": "better"
+        },
+        {
+            "JP": "両方とも",
+            "EN": "both"
+        },
+        {
+            "JP": "注意深い",
+            "EN": "careful"
+        },
+        {
+            "JP": "市",
+            "EN": "city"
+        },
+        {
+            "JP": "閉じた",
+            "EN": "closed"
+        },
+        {
+            "JP": "会社",
+            "EN": "company"
+        },
+        {
+            "JP": "辞書",
+            "EN": "dictionary"
+        },
+        {
+            "JP": "小学校",
+            "EN": "elementary school"
+        },
+        {
+            "JP": "卒業する",
+            "EN": "graduate"
+        },
+        {
+            "JP": "風邪をひく",
+            "EN": "have a cold"
+        },
+        {
+            "JP": "世界",
+            "EN": "world"
+        },
+        {
+            "JP": "昨夜",
+            "EN": "last night"
+        },
+        {
+            "JP": "探す",
+            "EN": "look for"
+        },
+        {
+            "JP": "博物館",
+            "EN": "museum"
+        },
+        {
+            "JP": "近所",
+            "EN": "neighborhood"
+        },
+        {
+            "JP": "両親",
+            "EN": "parents"
+        },
+        {
+            "JP": "池",
+            "EN": "pond"
+        },
+        {
+            "JP": "帽子",
+            "EN": "hat"
+        },
+        {
+            "JP": "年",
+            "EN": "year"
+        },
+        {
+            "JP": "人々",
+            "EN": "people"
+        },
+        {
+            "JP": "王様",
+            "EN": "king"
+        },
+        {
+            "JP": "レストラン",
+            "EN": "restaurant"
+        },
+        {
+            "JP": "動物園",
+            "EN": "zoo"
+        },
+        {
+            "JP": "空港",
+            "EN": "airport"
+        },
+        {
+            "JP": "図書館",
+            "EN": "library"
+        },
+        {
+            "JP": "病院",
+            "EN": "hospital"
+        },
+        {
+            "JP": "郵便局",
+            "EN": "post office"
+        },
+        {
+            "JP": "駅",
+            "EN": "station"
+        },
+        {
+            "JP": "店",
+            "EN": "store"
+        },
+        {
+            "JP": "銀行",
+            "EN": "bank"
+        },
+        {
+            "JP": "映画館",
+            "EN": "movie theater"
+        },
+        {
+            "JP": "ホテル",
+            "EN": "hotel"
+        },
+        {
+            "JP": "教会",
+            "EN": "church"
+        },
+        {
+            "JP": "寺",
+            "EN": "temple"
+        },
+        {
+            "JP": "交番",
+            "EN": "police box"
+        },
+        {
+            "JP": "消防署",
+            "EN": "fire station"
+        },
+        {
+            "JP": "学校",
+            "EN": "school"
+        },
+        {
+            "JP": "中学校",
+            "EN": "junior high school"
+        },
+        {
+            "JP": "高校",
+            "EN": "high school"
+        },
+        {
+            "JP": "大学",
+            "EN": "college"
+        },
+        {
+            "JP": "先生",
+            "EN": "teacher"
+        },
+        {
+            "JP": "生徒",
+            "EN": "student"
+        },
+        {
+            "JP": "医者",
+            "EN": "doctor"
+        },
+        {
+            "JP": "看護師",
+            "EN": "nurse"
+        },
+        {
+            "JP": "警察官",
+            "EN": "police officer"
+        },
+        {
+            "JP": "消防士",
+            "EN": "firefighter"
+        },
+        {
+            "JP": "店員",
+            "EN": "clerk"
+        },
+        {
+            "JP": "運転手",
+            "EN": "driver"
+        },
+        {
+            "JP": "歌手",
+            "EN": "singer"
+        },
+        {
+            "JP": "俳優",
+            "EN": "actor"
+        },
+        {
+            "JP": "画家",
+            "EN": "artist"
+        },
+        {
+            "JP": "料理人",
+            "EN": "cook"
+        },
+        {
+            "JP": "農家",
+            "EN": "farmer"
+        },
+        {
+            "JP": "郵便配達員",
+            "EN": "mail carrier"
+        },
+        {
+            "JP": "スポーツ選手",
+            "EN": "athlete"
+        }
+    ]
+}

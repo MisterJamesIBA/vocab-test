@@ -1,0 +1,888 @@
+{
+    "data": [
+        {
+            "JP": "開発する",
+            "EN": "develop"
+        },
+        {
+            "JP": "許す",
+            "EN": "allow"
+        },
+        {
+            "JP": "創造する",
+            "EN": "create"
+        },
+        {
+            "JP": "続く",
+            "EN": "last"
+        },
+        {
+            "JP": "熱望する",
+            "EN": "long"
+        },
+        {
+            "JP": "支払う",
+            "EN": "pay"
+        },
+        {
+            "JP": "提供する",
+            "EN": "provide"
+        },
+        {
+            "JP": "損傷を与える",
+            "EN": "damage"
+        },
+        {
+            "JP": "去る",
+            "EN": "leave"
+        },
+        {
+            "JP": "予約する",
+            "EN": "reserve"
+        },
+        {
+            "JP": "引き起こす",
+            "EN": "cause"
+        },
+        {
+            "JP": "所有する",
+            "EN": "own"
+        },
+        {
+            "JP": "費用がかかる",
+            "EN": "cost"
+        },
+        {
+            "JP": "保護する",
+            "EN": "protect"
+        },
+        {
+            "JP": "改良する",
+            "EN": "improve"
+        },
+        {
+            "JP": "条件を満たす",
+            "EN": "meet"
+        },
+        {
+            "JP": "指さす",
+            "EN": "point"
+        },
+        {
+            "JP": "減らす",
+            "EN": "reduce"
+        },
+        {
+            "JP": "送る",
+            "EN": "ship"
+        },
+        {
+            "JP": "続ける",
+            "EN": "continue"
+        },
+        {
+            "JP": "着陸する",
+            "EN": "land"
+        },
+        {
+            "JP": "申し出る",
+            "EN": "propose"
+        },
+        {
+            "JP": "経営する",
+            "EN": "run"
+        },
+        {
+            "JP": "増加する",
+            "EN": "increase"
+        },
+        {
+            "JP": "作る",
+            "EN": "produce"
+        },
+        {
+            "JP": "含む",
+            "EN": "contain"
+        },
+        {
+            "JP": "〜させる",
+            "EN": "let"
+        },
+        {
+            "JP": "取り除く",
+            "EN": "remove"
+        },
+        {
+            "JP": "扱う",
+            "EN": "treat"
+        },
+        {
+            "JP": "添付する",
+            "EN": "attach"
+        },
+        {
+            "JP": "避ける",
+            "EN": "avoid"
+        },
+        {
+            "JP": "意見が一致する",
+            "EN": "agree"
+        },
+        {
+            "JP": "連絡をとる",
+            "EN": "contact"
+        },
+        {
+            "JP": "組織する",
+            "EN": "form"
+        },
+        {
+            "JP": "導く",
+            "EN": "guide"
+        },
+        {
+            "JP": "妨げる",
+            "EN": "prevent"
+        },
+        {
+            "JP": "覆う",
+            "EN": "cover"
+        },
+        {
+            "JP": "認める",
+            "EN": "recognize"
+        },
+        {
+            "JP": "勧める",
+            "EN": "recommend"
+        },
+        {
+            "JP": "広がる",
+            "EN": "spread"
+        },
+        {
+            "JP": "提案する",
+            "EN": "suggest"
+        },
+        {
+            "JP": "支持する",
+            "EN": "support"
+        },
+        {
+            "JP": "つなぐ",
+            "EN": "connect"
+        },
+        {
+            "JP": "支配する",
+            "EN": "control"
+        },
+        {
+            "JP": "含む",
+            "EN": "include"
+        },
+        {
+            "JP": "ままでいる",
+            "EN": "remain"
+        },
+        {
+            "JP": "修理する",
+            "EN": "repair"
+        },
+        {
+            "JP": "浪費する",
+            "EN": "waste"
+        },
+        {
+            "JP": "申し込む",
+            "EN": "apply"
+        },
+        {
+            "JP": "追い込む",
+            "EN": "drive into"
+        },
+        {
+            "JP": "励ます",
+            "EN": "encourage"
+        },
+        {
+            "JP": "反対する",
+            "EN": "oppose"
+        },
+        {
+            "JP": "準備する",
+            "EN": "prepare"
+        },
+        {
+            "JP": "保存する",
+            "EN": "preserve"
+        },
+        {
+            "JP": "約束する",
+            "EN": "promise"
+        },
+        {
+            "JP": "取り替える",
+            "EN": "replace"
+        },
+        {
+            "JP": "供給する",
+            "EN": "supply"
+        },
+        {
+            "JP": "警告する",
+            "EN": "warn"
+        },
+        {
+            "JP": "引き付ける",
+            "EN": "attract"
+        },
+        {
+            "JP": "比較する",
+            "EN": "compare"
+        },
+        {
+            "JP": "治療する",
+            "EN": "cure"
+        },
+        {
+            "JP": "議論する",
+            "EN": "discuss"
+        },
+        {
+            "JP": "探検する",
+            "EN": "explore"
+        },
+        {
+            "JP": "特定する",
+            "EN": "identify"
+        },
+        {
+            "JP": "演じる",
+            "EN": "perform"
+        },
+        {
+            "JP": "予言する",
+            "EN": "predict"
+        },
+        {
+            "JP": "みなす",
+            "EN": "regard"
+        },
+        {
+            "JP": "必要とする",
+            "EN": "require"
+        },
+        {
+            "JP": "加える",
+            "EN": "add"
+        },
+        {
+            "JP": "狙いを定める",
+            "EN": "aim"
+        },
+        {
+            "JP": "繁殖させる",
+            "EN": "breed"
+        },
+        {
+            "JP": "請求する",
+            "EN": "charge"
+        },
+        {
+            "JP": "えさをやる",
+            "EN": "feed"
+        },
+        {
+            "JP": "水浸しにする",
+            "EN": "flood"
+        },
+        {
+            "JP": "審査する",
+            "EN": "judge"
+        },
+        {
+            "JP": "より好む",
+            "EN": "prefer"
+        },
+        {
+            "JP": "スキャンする",
+            "EN": "scan"
+        },
+        {
+            "JP": "患う",
+            "EN": "suffer"
+        },
+        {
+            "JP": "影響を及ぼす",
+            "EN": "affect"
+        },
+        {
+            "JP": "主張する",
+            "EN": "argue"
+        },
+        {
+            "JP": "苦情を言う",
+            "EN": "complain"
+        },
+        {
+            "JP": "非難する",
+            "EN": "criticize"
+        },
+        {
+            "JP": "遅らせる",
+            "EN": "delay"
+        },
+        {
+            "JP": "配達する",
+            "EN": "deliver"
+        },
+        {
+            "JP": "要求する",
+            "EN": "demand"
+        },
+        {
+            "JP": "直面する",
+            "EN": "face"
+        },
+        {
+            "JP": "得る",
+            "EN": "gain"
+        },
+        {
+            "JP": "無視する",
+            "EN": "ignore"
+        },
+        {
+            "JP": "横になる",
+            "EN": "lie"
+        },
+        {
+            "JP": "管理する",
+            "EN": "manage"
+        },
+        {
+            "JP": "匹敵する",
+            "EN": "match"
+        },
+        {
+            "JP": "反応する",
+            "EN": "react"
+        },
+        {
+            "JP": "悟る",
+            "EN": "realize"
+        },
+        {
+            "JP": "余裕がある",
+            "EN": "afford"
+        },
+        {
+            "JP": "存在する",
+            "EN": "exist"
+        },
+        {
+            "JP": "修理する",
+            "EN": "fix"
+        },
+        {
+            "JP": "述べる",
+            "EN": "state"
+        },
+        {
+            "JP": "説得する",
+            "EN": "persuade"
+        },
+        {
+            "JP": "打ち勝つ",
+            "EN": "overcome"
+        },
+        {
+            "JP": "計画する、整理する",
+            "EN": "organize"
+        },
+        {
+            "JP": "輸送する",
+            "EN": "transport"
+        },
+        {
+            "JP": "概念",
+            "EN": "concept"
+        },
+        {
+            "JP": "法律",
+            "EN": "law"
+        },
+        {
+            "JP": "情報源",
+            "EN": "source"
+        },
+        {
+            "JP": "種類、変化",
+            "EN": "variety"
+        },
+        {
+            "JP": "教育的な",
+            "EN": "educational"
+        },
+        {
+            "JP": "カジュアルな",
+            "EN": "casual"
+        },
+        {
+            "JP": "生成する",
+            "EN": "generate"
+        },
+        {
+            "JP": "隠す",
+            "EN": "hide"
+        },
+        {
+            "JP": "減少する",
+            "EN": "decrease"
+        },
+        {
+            "JP": "描写する",
+            "EN": "describe"
+        },
+        {
+            "JP": "決心している",
+            "EN": "determined"
+        },
+        {
+            "JP": "割引する",
+            "EN": "discount"
+        },
+        {
+            "JP": "偽物の",
+            "EN": "fake"
+        },
+        {
+            "JP": "養う、食べ物を与える",
+            "EN": "feed"
+        },
+        {
+            "JP": "計画する、整理する",
+            "EN": "organize"
+        },
+        {
+            "JP": "輸送する",
+            "EN": "transport"
+        },
+        {
+            "JP": "概念",
+            "EN": "concept"
+        },
+        {
+            "JP": "法律",
+            "EN": "law"
+        },
+        {
+            "JP": "情報源",
+            "EN": "source"
+        },
+        {
+            "JP": "種類、変化",
+            "EN": "variety"
+        },
+        {
+            "JP": "教育的な",
+            "EN": "educational"
+        },
+        {
+            "JP": "カジュアルな",
+            "EN": "casual"
+        },
+        {
+            "JP": "生成する",
+            "EN": "generate"
+        },
+        {
+            "JP": "隠す",
+            "EN": "hide"
+        },
+        {
+            "JP": "減少する",
+            "EN": "decrease"
+        },
+        {
+            "JP": "描写する",
+            "EN": "describe"
+        },
+        {
+            "JP": "決心している",
+            "EN": "determined"
+        },
+        {
+            "JP": "割引する",
+            "EN": "discount"
+        },
+        {
+            "JP": "偽物の",
+            "EN": "fake"
+        },
+        {
+            "JP": "養う、食べ物を与える",
+            "EN": "feed"
+        },
+        {
+            "JP": "苦情を言う",
+            "EN": "complain"
+        },
+        {
+            "JP": "非難する",
+            "EN": "criticize"
+        },
+        {
+            "JP": "遅らせる",
+            "EN": "delay"
+        },
+        {
+            "JP": "配達する",
+            "EN": "deliver"
+        },
+        {
+            "JP": "強く要求する",
+            "EN": "demand"
+        },
+        {
+            "JP": "直面する",
+            "EN": "face"
+        },
+        {
+            "JP": "得る",
+            "EN": "gain"
+        },
+        {
+            "JP": "無視する",
+            "EN": "ignore"
+        },
+        {
+            "JP": "横になる",
+            "EN": "lie"
+        },
+        {
+            "JP": "管理する",
+            "EN": "manage"
+        },
+        {
+            "JP": "匹敵する、調和する",
+            "EN": "match"
+        },
+        {
+            "JP": "反応する",
+            "EN": "react"
+        },
+        {
+            "JP": "悟る",
+            "EN": "realize"
+        },
+        {
+            "JP": "余裕がある",
+            "EN": "afford"
+        },
+        {
+            "JP": "存在する",
+            "EN": "exist"
+        },
+        {
+            "JP": "修理する",
+            "EN": "fix"
+        },
+        {
+            "JP": "述べる",
+            "EN": "state"
+        },
+        {
+            "JP": "説得する",
+            "EN": "persuade"
+        },
+        {
+            "JP": "打ち勝つ",
+            "EN": "overcome"
+        },
+        {
+            "JP": "概念",
+            "EN": "concept"
+        },
+        {
+            "JP": "法律",
+            "EN": "law"
+        },
+        {
+            "JP": "情報源",
+            "EN": "source"
+        },
+        {
+            "JP": "種類、変化",
+            "EN": "variety"
+        },
+        {
+            "JP": "教育的な",
+            "EN": "educational"
+        },
+        {
+            "JP": "カジュアルな",
+            "EN": "casual"
+        },
+        {
+            "JP": "生成する",
+            "EN": "generate"
+        },
+        {
+            "JP": "隠す",
+            "EN": "hide"
+        },
+        {
+            "JP": "減少する",
+            "EN": "decrease"
+        },
+        {
+            "JP": "描写する",
+            "EN": "describe"
+        },
+        {
+            "JP": "決心している",
+            "EN": "determined"
+        },
+        {
+            "JP": "割引する",
+            "EN": "discount"
+        },
+        {
+            "JP": "偽物の",
+            "EN": "fake"
+        },
+        {
+            "JP": "養う、食べ物を与える",
+            "EN": "feed"
+        },
+        {
+            "JP": "計画する、整理する",
+            "EN": "organize"
+        },
+        {
+            "JP": "輸送する",
+            "EN": "transport"
+        },
+        {
+            "JP": "概念",
+            "EN": "concept"
+        },
+        {
+            "JP": "法律",
+            "EN": "law"
+        },
+        {
+            "JP": "情報源",
+            "EN": "source"
+        },
+        {
+            "JP": "種類、変化",
+            "EN": "variety"
+        },
+        {
+            "JP": "教育的な",
+            "EN": "educational"
+        },
+        {
+            "JP": "カジュアルな",
+            "EN": "casual"
+        },
+        {
+            "JP": "生成する",
+            "EN": "generate"
+        },
+        {
+            "JP": "隠す",
+            "EN": "hide"
+        },
+        {
+            "JP": "減少する",
+            "EN": "decrease"
+        },
+        {
+            "JP": "描写する",
+            "EN": "describe"
+        },
+        {
+            "JP": "決心している",
+            "EN": "determined"
+        },
+        {
+            "JP": "割引する",
+            "EN": "discount"
+        },
+        {
+            "JP": "偽物の",
+            "EN": "fake"
+        },
+        {
+            "JP": "養う、食べ物を与える",
+            "EN": "feed"
+        },
+        {
+            "JP": "比較する",
+            "EN": "compare"
+        },
+        {
+            "JP": "遅らせる",
+            "EN": "delay"
+        },
+        {
+            "JP": "主張する",
+            "EN": "argue"
+        },
+        {
+            "JP": "苦情を言う",
+            "EN": "complain"
+        },
+        {
+            "JP": "非難する",
+            "EN": "criticize"
+        },
+        {
+            "JP": "配達する",
+            "EN": "deliver"
+        },
+        {
+            "JP": "強く要求する",
+            "EN": "demand"
+        },
+        {
+            "JP": "直面する",
+            "EN": "face"
+        },
+        {
+            "JP": "得る",
+            "EN": "gain"
+        },
+        {
+            "JP": "無視する",
+            "EN": "ignore"
+        },
+        {
+            "JP": "横になる",
+            "EN": "lie"
+        },
+        {
+            "JP": "管理する",
+            "EN": "manage"
+        },
+        {
+            "JP": "匹敵する、調和する",
+            "EN": "match"
+        },
+        {
+            "JP": "反応する",
+            "EN": "react"
+        },
+        {
+            "JP": "悟る",
+            "EN": "realize"
+        },
+        {
+            "JP": "余裕がある",
+            "EN": "afford"
+        },
+        {
+            "JP": "存在する",
+            "EN": "exist"
+        },
+        {
+            "JP": "修理する",
+            "EN": "fix"
+        },
+        {
+            "JP": "述べる",
+            "EN": "state"
+        },
+        {
+            "JP": "説得する",
+            "EN": "persuade"
+        },
+        {
+            "JP": "打ち勝つ",
+            "EN": "overcome"
+        },
+        {
+            "JP": "分け合う",
+            "EN": "share"
+        },
+        {
+            "JP": "移植する",
+            "EN": "transplant"
+        },
+        {
+            "JP": "価値",
+            "EN": "value"
+        },
+        {
+            "JP": "感謝する",
+            "EN": "appreciate"
+        },
+        {
+            "JP": "複雑にする",
+            "EN": "complicate"
+        },
+        {
+            "JP": "分割する",
+            "EN": "divide"
+        },
+        {
+            "JP": "見積もる",
+            "EN": "estimate"
+        },
+        {
+            "JP": "生み出す",
+            "EN": "generate"
+        },
+        {
+            "JP": "重要性",
+            "EN": "importance"
+        },
+        {
+            "JP": "考慮する",
+            "EN": "consider"
+        },
+        {
+            "JP": "予測する",
+            "EN": "forecast"
+        },
+        {
+            "JP": "影響を与える",
+            "EN": "influence"
+        },
+        {
+            "JP": "強調する",
+            "EN": "emphasize"
+        },
+        {
+            "JP": "拡大する",
+            "EN": "expand"
+        },
+        {
+            "JP": "減少する",
+            "EN": "decline"
+        },
+        {
+            "JP": "証明する",
+            "EN": "prove"
+        },
+        {
+            "JP": "提案する",
+            "EN": "recommend"
+        },
+        {
+            "JP": "関係する",
+            "EN": "relate"
+        },
+        {
+            "JP": "解決する",
+            "EN": "solve"
+        },
+        {
+            "JP": "成功する",
+            "EN": "succeed"
+        }
+    ]
+}

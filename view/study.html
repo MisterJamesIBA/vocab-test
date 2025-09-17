@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <p>chose a test: </p>
+    <select id="testSelect">
+        <option value="../database/alphabet.json">Alphabet</option>
+        <option value="../database/eiken-five.json">EIKEN LEVEL 5</option>
+        <option value="../database/eiken-four.json">EIKEN LEVEL 4</option>
+        <option value="../database/eiken-three.json">EIKEN LEVEL 3</option>
+        <option value="../database/eiken-two.json">EIKEN LEVEL 2</option>
+
+        <option value="../database/ai/ai_grade5.json">AI EIKEN LEVEL 5</option>
+        <option value="../database/ai/ai_grade4.json">AI EIKEN LEVEL 4</option>
+        <option value="../database/ai/ai_grade3.json">AI EIKEN LEVEL 3</option>
+        <option value="../database/ai/ai_grade2.json">AI IKEN LEVEL 2</option>
+    </select>
+    <button id="enterBtn">Enter</button>
+
+
+    <h1>Table</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th> Japanese</th>
+                <th>English</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+
+        </tbody>
+    </table>
+</body>
+
+<script>
+
+
+    function makeTable(jsonData) {
+        console.log(jsonData);
+
+        let tableBody = document.querySelector("#tableBody");
+        tableBody.innerHTML = "";
+
+        jsonData.forEach(data => {
+            let tr = document.createElement("tr");
+            let tdJP = document.createElement("td");
+            let tdEN  = document.createElement("td");
+
+            tdJP.innerHTML = data.JP;
+            tdEN.innerHTML = data.EN;
+
+            tr.appendChild(tdJP);
+            tr.appendChild(tdEN);
+
+            tableBody.appendChild(tr);
+        });
+    }
+
+    function loadTest(testSelect) {
+        fetch(testSelect)
+            .then((res) => res.text())
+            .then((text) => {
+                //console.log(text);
+                makeTable(JSON.parse(text).data);
+            })
+            .catch((e) => console.error(e));
+    }
+
+    window.onload = function () {
+        let testSelect = document.querySelector("#testSelect");
+        let enterBtn = document.querySelector("#enterBtn");
+
+        enterBtn.addEventListener("click", () => {
+            loadTest(testSelect.value)
+        });
+
+    }
+</script>
+
+</html>

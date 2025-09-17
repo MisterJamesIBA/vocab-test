@@ -1,0 +1,544 @@
+{
+    "": [
+        {
+            "JP": "2、3の〜",
+            "EN": "a couple of"
+        },
+        {
+            "JP": "1日につき",
+            "EN": "a day"
+        },
+        {
+            "JP": "少し",
+            "EN": "a little"
+        },
+        {
+            "JP": "一週間につき",
+            "EN": "a week"
+        },
+        {
+            "JP": "〜について",
+            "EN": "about"
+        },
+        {
+            "JP": "〜の向かい側に",
+            "EN": "across from"
+        },
+        {
+            "JP": "実際は",
+            "EN": "actually"
+        },
+        {
+            "JP": "〜に反対して",
+            "EN": "against"
+        },
+        {
+            "JP": "〜に賛成する",
+            "EN": "agree with"
+        },
+        {
+            "JP": "航空券",
+            "EN": "air ticket"
+        },
+        {
+            "JP": "独りで",
+            "EN": "alone"
+        },
+        {
+            "JP": "既に",
+            "EN": "already"
+        },
+        {
+            "JP": "〜もまた",
+            "EN": "also"
+        },
+        {
+            "JP": "1時間につき",
+            "EN": "an hour"
+        },
+        {
+            "JP": "別の",
+            "EN": "another"
+        },
+        {
+            "JP": "誰でも",
+            "EN": "anyone"
+        },
+        {
+            "JP": "何か他のもの",
+            "EN": "anything else"
+        },
+        {
+            "JP": "いつでも",
+            "EN": "anytime"
+        },
+        {
+            "JP": "水族館",
+            "EN": "aquarium"
+        },
+        {
+            "JP": "地域",
+            "EN": "area"
+        },
+        {
+            "JP": "〜として",
+            "EN": "as"
+        },
+        {
+            "JP": "まるで〜みたいに",
+            "EN": "as if"
+        },
+        {
+            "JP": "いつも通りに",
+            "EN": "as usually"
+        },
+        {
+            "JP": "1度に",
+            "EN": "at one time"
+        },
+        {
+            "JP": "〜を襲う",
+            "EN": "attack"
+        },
+        {
+            "JP": "建物",
+            "EN": "building"
+        },
+        {
+            "JP": "大学",
+            "EN": "college"
+        },
+        {
+            "JP": "娘",
+            "EN": "daughter"
+        },
+        {
+            "JP": "公平な",
+            "EN": "fair"
+        },
+        {
+            "JP": "フランス語",
+            "EN": "French"
+        },
+        {
+            "JP": "未来",
+            "EN": "future"
+        },
+        {
+            "JP": "政府",
+            "EN": "government"
+        },
+        {
+            "JP": "病院",
+            "EN": "hospital"
+        },
+        {
+            "JP": "楽器",
+            "EN": "instrument"
+        },
+        {
+            "JP": "借りる",
+            "EN": "borrow"
+        },
+        {
+            "JP": "決める",
+            "EN": "decide"
+        },
+        {
+            "JP": "楽しい",
+            "EN": "enjoyable"
+        },
+        {
+            "JP": "有名な",
+            "EN": "famous"
+        },
+        {
+            "JP": "起こる",
+            "EN": "happen"
+        },
+        {
+            "JP": "重要な",
+            "EN": "important"
+        },
+        {
+            "JP": "参加する",
+            "EN": "join"
+        },
+        {
+            "JP": "去る",
+            "EN": "leave"
+        },
+        {
+            "JP": "動く、引っ越す",
+            "EN": "move"
+        },
+        {
+            "JP": "必要とする",
+            "EN": "need"
+        },
+        {
+            "JP": "合格する、通る",
+            "EN": "pass"
+        },
+        {
+            "JP": "覚えている",
+            "EN": "remember"
+        },
+        {
+            "JP": "費やす",
+            "EN": "spend"
+        },
+        {
+            "JP": "勉強する",
+            "EN": "study"
+        },
+        {
+            "JP": "旅行する",
+            "EN": "travel"
+        },
+        {
+            "JP": "訪れる",
+            "EN": "visit"
+        },
+        {
+            "JP": "勝つ",
+            "EN": "win"
+        },
+        {
+            "JP": "不思議に思う",
+            "EN": "wonder"
+        },
+        {
+            "JP": "借りる",
+            "EN": "borrow"
+        },
+        {
+            "JP": "決める",
+            "EN": "decide"
+        },
+        {
+            "JP": "楽しい",
+            "EN": "enjoyable"
+        },
+        {
+            "JP": "有名な",
+            "EN": "famous"
+        },
+        {
+            "JP": "起こる",
+            "EN": "happen"
+        },
+        {
+            "JP": "重要な",
+            "EN": "important"
+        },
+        {
+            "JP": "参加する",
+            "EN": "join"
+        },
+        {
+            "JP": "去る",
+            "EN": "leave"
+        },
+        {
+            "JP": "動く、引っ越す",
+            "EN": "move"
+        },
+        {
+            "JP": "必要とする",
+            "EN": "need"
+        },
+        {
+            "JP": "合格する、通る",
+            "EN": "pass"
+        },
+        {
+            "JP": "覚えている",
+            "EN": "remember"
+        },
+        {
+            "JP": "費やす",
+            "EN": "spend"
+        },
+        {
+            "JP": "勉強する",
+            "EN": "study"
+        },
+        {
+            "JP": "旅行する",
+            "EN": "travel"
+        },
+        {
+            "JP": "訪れる",
+            "EN": "visit"
+        },
+        {
+            "JP": "勝つ",
+            "EN": "win"
+        },
+        {
+            "JP": "不思議に思う",
+            "EN": "wonder"
+        },
+        {
+            "JP": "建てる",
+            "EN": "build"
+        },
+        {
+            "JP": "説明する",
+            "EN": "explain"
+        },
+        {
+            "JP": "手伝う",
+            "EN": "help"
+        },
+        {
+            "JP": "学ぶ",
+            "EN": "learn"
+        },
+        {
+            "JP": "意味する",
+            "EN": "mean"
+        },
+        {
+            "JP": "開ける",
+            "EN": "open"
+        },
+        {
+            "JP": "閉める",
+            "EN": "close"
+        },
+        {
+            "JP": "始める",
+            "EN": "start"
+        },
+        {
+            "JP": "終える",
+            "EN": "finish"
+        },
+        {
+            "JP": "働く",
+            "EN": "work"
+        },
+        {
+            "JP": "使う",
+            "EN": "use"
+        },
+        {
+            "JP": "探す",
+            "EN": "look for"
+        },
+        {
+            "JP": "持ってくる",
+            "EN": "bring"
+        },
+        {
+            "JP": "買う",
+            "EN": "buy"
+        },
+        {
+            "JP": "売る",
+            "EN": "sell"
+        },
+        {
+            "JP": "歌う",
+            "EN": "sing"
+        },
+        {
+            "JP": "泳ぐ",
+            "EN": "swim"
+        },
+        {
+            "JP": "走る",
+            "EN": "run"
+        },
+        {
+            "JP": "歩く",
+            "EN": "walk"
+        },
+        {
+            "JP": "飛ぶ",
+            "EN": "fly"
+        },
+        {
+            "JP": "乗る",
+            "EN": "ride"
+        },
+        {
+            "JP": "読む",
+            "EN": "read"
+        },
+        {
+            "JP": "書く",
+            "EN": "write"
+        },
+        {
+            "JP": "話す",
+            "EN": "talk"
+        },
+        {
+            "JP": "聞く",
+            "EN": "listen"
+        },
+        {
+            "JP": "見る",
+            "EN": "watch"
+        },
+        {
+            "JP": "建物",
+            "EN": "building"
+        },
+        {
+            "JP": "大学",
+            "EN": "college"
+        },
+        {
+            "JP": "娘",
+            "EN": "daughter"
+        },
+        {
+            "JP": "公平な",
+            "EN": "fair"
+        },
+        {
+            "JP": "フランス語",
+            "EN": "French"
+        },
+        {
+            "JP": "未来",
+            "EN": "future"
+        },
+        {
+            "JP": "政府",
+            "EN": "government"
+        },
+        {
+            "JP": "病院",
+            "EN": "hospital"
+        },
+        {
+            "JP": "楽器",
+            "EN": "instrument"
+        },
+        {
+            "JP": "注意する",
+            "EN": "be careful"
+        },
+        {
+            "JP": "〜を選ぶ",
+            "EN": "choose"
+        },
+        {
+            "JP": "〜を掃除する",
+            "EN": "clean"
+        },
+        {
+            "JP": "〜を閉じる",
+            "EN": "close"
+        },
+        {
+            "JP": "〜を運転する",
+            "EN": "drive"
+        },
+        {
+            "JP": "〜を落とす",
+            "EN": "drop"
+        },
+        {
+            "JP": "〜を楽しむ",
+            "EN": "enjoy"
+        },
+        {
+            "JP": "〜を感じる",
+            "EN": "feel"
+        },
+        {
+            "JP": "〜を見つける",
+            "EN": "find"
+        },
+        {
+            "JP": "〜を忘れる",
+            "EN": "forget"
+        },
+        {
+            "JP": "〜を与える",
+            "EN": "give"
+        },
+        {
+            "JP": "〜を行う",
+            "EN": "go"
+        },
+        {
+            "JP": "〜を持っている",
+            "EN": "have"
+        },
+        {
+            "JP": "〜を手伝う",
+            "EN": "help"
+        },
+        {
+            "JP": "〜を保つ",
+            "EN": "keep"
+        },
+        {
+            "JP": "〜を知っている",
+            "EN": "know"
+        },
+        {
+            "JP": "〜を作る",
+            "EN": "make"
+        },
+        {
+            "JP": "〜を見る",
+            "EN": "look"
+        },
+        {
+            "JP": "〜を開ける",
+            "EN": "open"
+        },
+        {
+            "JP": "〜を準備する",
+            "EN": "prepare"
+        },
+        {
+            "JP": "〜を読む",
+            "EN": "read"
+        },
+        {
+            "JP": "〜を送る",
+            "EN": "send"
+        },
+        {
+            "JP": "〜を見せる",
+            "EN": "show"
+        },
+        {
+            "JP": "〜を話す",
+            "EN": "speak"
+        },
+        {
+            "JP": "〜を止める",
+            "EN": "stop"
+        },
+        {
+            "JP": "〜を教える",
+            "EN": "teach"
+        },
+        {
+            "JP": "〜を考える",
+            "EN": "think"
+        },
+        {
+            "JP": "〜を使う",
+            "EN": "use"
+        },
+        {
+            "JP": "〜を待つ",
+            "EN": "wait"
+        },
+        {
+            "JP": "〜を書く",
+            "EN": "write"
+        }
+    ]
+}

@@ -176,6 +176,7 @@ const startTest = (testType, vocab, time) => {
 
     // current index start at -1 
     let index = -1;
+    let score = 0;
 
     //shuffle the vocab words
     let shuffle = vocab.sort(() => Math.random() - 0.5);
@@ -194,9 +195,10 @@ const startTest = (testType, vocab, time) => {
     const setup = () => {
         // increment and check if out of bounds
         index++;
+        
         if (index >= vocab.length) {
-            alert("test finish");
-            return;
+            index = 0;
+            select = shuffle[index];
         }
 
         // start
@@ -241,6 +243,7 @@ const startTest = (testType, vocab, time) => {
         output.innerHTML = resultList.join(" ");
 
         if (correct) {
+            score++;
             // change which button is visable
             nextBtn.classList.remove("hide")
             enterBtn.classList.add("hide");
@@ -269,6 +272,8 @@ const startTest = (testType, vocab, time) => {
         if (seconds <= 0) {
             clearInterval(handle);
             showResult();
+            let scoreBox = document.querySelector("#scorBox");
+            scoreBox.innerHTML = score;
         }
     }, 1000);
 

@@ -20,7 +20,7 @@
         </select>
         <P>Time:</P>
         <select id="timeSelect">
-            <option value="1">5 Min</option>
+            <option value="5">5 Min</option>
             <option value="10">10 Min</option>
             <option value="15">15 Min</option>
             <option value="20">20 Min</option>
@@ -36,11 +36,9 @@
 
     <div class="resultScreen hide">
 
-        <h1>Finish</h1>
-        <p>Score: <span>###</span></p>
-        <button>try again</button>
-        <button>back</button>
-
+        <h1>Result</h1>
+        <p>Score: <span id="scorBox">###</span></p>
+        <button onclick="window.location.reload()">try again</button>
     </div>
 
     <div class="mainScreen hide">
