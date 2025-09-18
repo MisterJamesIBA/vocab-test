@@ -16,7 +16,12 @@
             <option value="../database/eiken-five.json">EIKEN LEVEL 5</option>
             <option value="../database/eiken-four.json">EIKEN LEVEL 4</option>
             <option value="../database/eiken-three.json">EIKEN LEVEL 3</option>
-            <option value="../database/eiken-two.json">EIKEN LEVEL 2</option>
+            <option value="../database/ai/ai_grade2.json">EIKEN LEVEL 2</option>
+
+            <option value="../database/ai/ai_grade5.json">AI EIKEN LEVEL 5</option>
+            <option value="../database/ai/ai_grade4.json">AI EIKEN LEVEL 4</option>
+            <option value="../database/ai/ai_grade3.json">AI EIKEN LEVEL 3</option>
+            <option value="../database/ai/ai_grade2.json">AI EIKEN LEVEL 2</option>
         </select>
         <P>Time:</P>
         <select id="timeSelect">
@@ -43,7 +48,7 @@
 
     <div class="mainScreen hide">
 
-        
+
         <p>Question: <span id="questNumber">##/##</span></p>
         <p>Time: <span id="time">1:00</span></p>
 
@@ -55,7 +60,7 @@
         </div>
 
         <input autocomplete="off" type="text" id="input">
-        
+
         <button id="enterBtn">Enter</button>
         <button class="hide" id="nextBtn">Next</button>
 
@@ -64,6 +69,16 @@
 
         <p>Answer</p>
         <p id="answerText">Hover to reveal answer</p>
+
+        <h3>Tip</h3>
+
+        <p class="good">Correct</p>
+
+        <p class="ok">Right word wrong position</p>
+
+        <p class="bad">Wrong word</p>
+
+        <p class="bad">* : Missing word</p>
 
     </div>
 
